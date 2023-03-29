@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="127px" height="27px" viewBox="0 0 127 27" enable-background="new 0 0 127 27" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="19.4077" y1="14.7051" x2="5.3885" y2="1.1611">
+				<stop  offset="0" style="stop-color:#ED1C24"/>
+				<stop  offset="0.9911" style="stop-color:#FAA845"/>
+			</linearGradient>
+			<path fill="url(#SVGID_1_)" d="M21.613,9.541l-6.768,3.132L6.043,8.602c-2.227-1.029-3.65-3.259-3.65-5.711V0.652L21.613,9.541z"
+				/>
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="21.6421" y1="15.8086" x2="21.6276" y2="15.7967">
+				<stop  offset="0" style="stop-color:#ED1C24"/>
+				<stop  offset="0.9911" style="stop-color:#FAA845"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_2_)" points="21.641,15.79 21.641,15.816 21.613,15.804 			"/>
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="26.2373" y1="11.1318" x2="-2.7329" y2="23.3091">
+				<stop  offset="0" style="stop-color:#23C1DE"/>
+				<stop  offset="0.9921" style="stop-color:#5867B0"/>
+			</linearGradient>
+			<path fill="url(#SVGID_3_)" d="M21.641,9.529v6.261L2.393,24.691v-2.238c0-2.451,1.424-4.681,3.651-5.711L21.641,9.529z"/>
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="21.6504" y1="9.5366" x2="21.6127" y2="9.5525">
+				<stop  offset="0" style="stop-color:#23C1DE"/>
+				<stop  offset="0.9921" style="stop-color:#5867B0"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_4_)" points="21.641,9.529 21.641,9.554 21.613,9.541 			"/>
+			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="21.6182" y1="19.9014" x2="13.0635" y2="26.7926">
+				<stop  offset="0" style="stop-color:#ED1C24"/>
+				<stop  offset="0.9911" style="stop-color:#FAA845"/>
+			</linearGradient>
+			<path fill="url(#SVGID_5_)" d="M21.641,22.982v1.709H9.704l8.477-3.92C19.796,20.024,21.641,21.202,21.641,22.982z"/>
+		</g>
+		<g>
+			<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="10.5127" y1="8.6885" x2="-2.1796" y2="14.0235">
+				<stop  offset="0" style="stop-color:#23C1DE"/>
+				<stop  offset="0.9921" style="stop-color:#5867B0"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_6_)" points="10.477,12.69 1.036,8.411 3.383,12.69 1.036,16.936 			"/>
+			<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="11.4531" y1="10.9258" x2="-1.2398" y2="16.2611">
+				<stop  offset="0" style="stop-color:#23C1DE"/>
+				<stop  offset="0.9921" style="stop-color:#5867B0"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_7_)" points="10.477,12.69 1.035,16.934 3.382,12.69 			"/>
+			<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="3.5513" y1="15.6719" x2="8.5634" y2="11.251">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.9963" style="stop-color:#27357A"/>
+			</linearGradient>
+			<polygon fill="url(#SVGID_8_)" points="10.477,12.69 1.035,16.934 3.382,12.69 			"/>
+		</g>
+		<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="15.4087" y1="8.8975" x2="19.0907" y2="12.9723">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.9989" style="stop-color:#B81F24"/>
+		</linearGradient>
+		<polygon fill="url(#SVGID_9_)" points="15.95,6.922 12.014,11.364 14.845,12.673 21.613,9.541 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 23.9868 19.6973)" fill="#F58233" font-family="'Arial-Black'" font-size="15.1486">EVOLVEREN</text>
+	<text transform="matrix(1 0 0 1 24.7808 24.9053)" fill="#4595C8" font-family="'ArialNarrow'" font-size="4.4183">UNRIVALLED CONSTRUCTION &amp; CONSULTING SERVICES</text>
+</g>
+</svg>
